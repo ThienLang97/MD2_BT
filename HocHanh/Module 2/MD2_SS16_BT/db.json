@@ -1,0 +1,98 @@
+{
+  "users": [
+    
+    {
+      "userName": "Nộc",
+      "email": "123@gmail.com",
+      "password": "123",
+      "cart": [],
+      "id": 9
+    },
+    {
+      "username": "123",
+      "email": "1234@gmail.com",
+      "password": "123",
+      "cart": [],
+      "id": 10
+    },
+    {
+      "username": "123",
+      "email": "12345@gmail.com",
+      "password": "123",
+      "cart": [],
+      "id": 11
+    },
+    {
+      "username": "123",
+      "email": "1231@gmail.com",
+      "password": "123",
+      "cart": [],
+      "id": 12
+    },
+    {
+      "username": "hello",
+      "email": "hello@gmail.com",
+      "password": "123",
+      "cart": [],
+      "id": 13
+    }
+  ],
+  "products":[
+    {
+      "id":1,
+      "name":"iphone",
+      "image":"",
+      "productDetail":[
+        {
+          "id":2,
+          "product":"iphone6",
+          "price":6000,
+          "image":"",
+          "description":""
+        },
+        {
+          "id":3,
+          "product":"iphone7",
+          "price":6000,
+          "image":"",
+          "description":""
+        },
+        {
+          "id":4,
+          "product":"iphone9",
+          "price":6000,
+          "image":"",
+          "description":""
+        }
+      ]
+    },
+    {
+      "id":1,
+      "name":"samsung",
+      "image":"",
+      "productDetail":[
+        {
+          "id":6,
+          "product":"samsung x",
+          "price":6000,
+          "image":"",
+          "description":""
+        },
+        {
+          "id":7,
+          "product":"samsung y",
+          "price":10000,
+          "image":"",
+          "description":""
+        },
+        {
+          "id":8,
+          "product":"samsung z",
+          "price":8000,
+          "image":"",
+          "description":""
+        }
+      ]
+    }
+  ]
+}
